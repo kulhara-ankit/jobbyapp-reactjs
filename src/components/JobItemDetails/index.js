@@ -186,7 +186,11 @@ class JobItemDetails extends Component {
           <div className="description-visit-container">
             <h1 className="description-heading">Description</h1>
             <div className="visit-container">
-              <a href={companyWebsiteUrl} className="visit-heading">
+              <a
+                href={companyWebsiteUrl}
+                className="visit-heading"
+                alt="company_website_url"
+              >
                 Visit
               </a>
               <BiLinkExternal className="visit-icon" />
