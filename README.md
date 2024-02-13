@@ -1,4 +1,19 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+In this project, let's build a **Jobby App** by applying the concepts of ReactJS. In this app, user can search for their job according to their profile.
+
+Usename: rahul Password: rahul@2021
+
+![image](https://github.com/kulhara-ankit/jobbyapp-reactjs/assets/146313680/936f7bc7-115a-4ff4-b64d-6098d43e7321)
+![image](https://github.com/kulhara-ankit/jobbyapp-reactjs/assets/146313680/222651fe-3145-4531-ae9e-938e53f3ddb0)
+![image](https://github.com/kulhara-ankit/jobbyapp-reactjs/assets/146313680/59f5cb65-084e-494c-b208-10c6ac11f139)
+![image](https://github.com/kulhara-ankit/jobbyapp-reactjs/assets/146313680/5591208f-bf4a-447c-86be-d54bde3fb15f)
+
+
+
+
+
+
+
+
 
 ### Refer to videos below:
 
